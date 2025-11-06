@@ -11,4 +11,5 @@ What I learned,
 2. I escalated the event to the SOC Lead and blocked the Malicious IP address from the Firewall Block List.
 
 ![image](https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/SIEM%20SCREENSHOT%201.png?raw=true)
+![image](https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/SIEM%20SCREENSHOT%202.png?raw=true)
 
