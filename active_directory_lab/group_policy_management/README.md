@@ -16,4 +16,15 @@
 
 Screenshots Below
 
+  <img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/active_directory_lab/group_policy_management/screenshots/Screenshot%201.png?raw=true">
+
+  <img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/active_directory_lab/group_policy_management/screenshots/Screenshot%202.png?raw=true">
+
+  <img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/active_directory_lab/group_policy_management/screenshots/Screenshot%203.png?raw=true">
+ 
+<img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/active_directory_lab/group_policy_management/screenshots/Screenshot%204.png?raw=true">
+
+<img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/active_directory_lab/group_policy_management/screenshots/Screenshot%205.png?raw=true">
+
+  
 
