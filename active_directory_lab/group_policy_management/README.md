@@ -3,9 +3,9 @@
 ## Learn how to use Group Policy to control settings for users and computers.
 
 ### What I did
-- Created two seperate Organizational Units for Workstations and Servers.
+- Created two separate Organizational Units for Workstations and Servers.
 - Moved all laptops and computers to the Workstations OU.
-- Moved all servers to the Severs OU.
+- Moved all servers to the Servers OU.
 - Tried to change the password — confirmed that the new password must be at least 10 characters long (Password policy from default domain policy)
 - Created another GPO called Restrict Control Panel Access to block non-IT users from opening the Control Panel (Management, Marketing & Sales OU).
 - Created a new Group Policy called Auto Lock Screen to lock computers after 5 minutes.(Set to all Computers).
