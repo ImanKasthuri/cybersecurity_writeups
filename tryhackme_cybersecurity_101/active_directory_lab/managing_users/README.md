@@ -18,17 +18,17 @@
 - can use powershell to manage user quickly as example resetting passwords.
 - always test the changes by loggin in as the user.
 
-  <img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/active_directory_lab/managing_users/screenshots/Screenshot%201.png?raw=true">
+  <img src="https://github.com/ImanKasthuri/cybersecurity_writeups/blob/main/tryhackme_cybersecurity_101/active_directory_lab/managing_users/screenshots/Screenshot%201.png?raw=true">
 
-<img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/active_directory_lab/managing_users/screenshots/Screenshot%202.png?raw=true">
+<img src="https://github.com/ImanKasthuri/cybersecurity_writeups/blob/main/tryhackme_cybersecurity_101/active_directory_lab/managing_users/screenshots/Screenshot%202.png?raw=true">
 
-<img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/active_directory_lab/managing_users/screenshots/Screenshot%203.png?raw=true">
+<img src="https://github.com/ImanKasthuri/cybersecurity_writeups/blob/main/tryhackme_cybersecurity_101/active_directory_lab/managing_users/screenshots/Screenshot%203.png?raw=true">
 
-<img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/active_directory_lab/managing_users/screenshots/Screenshot%204.png?raw=true">
+<img src="https://github.com/ImanKasthuri/cybersecurity_writeups/blob/main/tryhackme_cybersecurity_101/active_directory_lab/managing_users/screenshots/Screenshot%204.png?raw=true">
 
-<img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/active_directory_lab/managing_users/screenshots/Screenshot%205.png?raw=true">
+<img src="https://github.com/ImanKasthuri/cybersecurity_writeups/blob/main/tryhackme_cybersecurity_101/active_directory_lab/managing_users/screenshots/Screenshot%205.png?raw=true">
 
-<img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/active_directory_lab/managing_users/screenshots/Screenshot%206.png?raw=true">
+<img src="https://github.com/ImanKasthuri/cybersecurity_writeups/blob/main/tryhackme_cybersecurity_101/active_directory_lab/managing_users/screenshots/Screenshot%206.png?raw=true">
     
 
         
